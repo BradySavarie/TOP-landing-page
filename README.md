@@ -6,3 +6,4 @@ Asset Attributions:
 
 Photo by billy Lopez: https://www.pexels.com/photo/a-person-playing-the-guitar-13170241/
 
+Button icons created by bastian 5: https://www.flaticon.com/free-icons/button
