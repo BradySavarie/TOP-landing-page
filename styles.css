@@ -161,6 +161,10 @@ ul {
     color: #e5e7eb;
 }
 
+li:hover {
+    color: white;
+}
+
 h1 {
     margin: 0;
     padding: 0;
@@ -186,4 +190,8 @@ button {
     color: white;
     font-weight: bold;
     font-size: 18px;
+}
+
+button:hover {
+    color: #424242;
 }
